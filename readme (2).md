@@ -57,7 +57,7 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  https://github.com/Thanush-41/MERN-SHOP
 ```
 
 ### Navigate to the project directory
